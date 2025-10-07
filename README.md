@@ -1,1 +1,2 @@
-# Netflix-Dashboard-using-Tableau
+# Netflix-Dashboard
+Dashboard using Tableau
